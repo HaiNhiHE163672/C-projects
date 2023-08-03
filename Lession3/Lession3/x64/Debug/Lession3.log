@@ -1,0 +1,11 @@
+﻿  Bai10.cpp
+  Bai3.cpp
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(2,1): error C2144: syntax error: 'double' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(3,1): error C2144: syntax error: 'char' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(4,1): error C2144: syntax error: 'int' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(5,1): error C2144: syntax error: 'double' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(6,1): error C2144: syntax error: 'bool' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(7,1): error C2144: syntax error: 'double' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(8,1): error C2144: syntax error: 'int' should be preceded by ';'
+D:\LTS_Project\Lession3\Lession3\Bai3.cpp(10,1): fatal  error C1004: unexpected end-of-file found
+  Generating Code...
